@@ -21,6 +21,7 @@ public class PrimeNumberORNot {
                     System.out.println("Entered number " + number + " is prime number");
                 }
             }
+            scanner.close();
         } catch (Exception e) {
             System.out.println("Entered characters are not applicable to check the prime number/composite number");
         }
