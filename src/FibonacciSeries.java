@@ -1,3 +1,4 @@
+//Basic Fibonacci Program with specified count of numbers and without recursion
 public class FibonacciSeries {
     public static void main(String[] args){
         int number1=0;
